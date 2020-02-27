@@ -1,2 +1,2 @@
 # WeatherApp
-App for AGH UST mobile technology course
+iOS app for AGH UST mobile technology course
